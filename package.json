@@ -15,5 +15,13 @@
     "express": "^4.17.1",
     "live-serve": "0.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavierRodriguez78/actividadesnodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JavierRodriguez78/actividadesnodejs/issues"
+  },
+  "homepage": "https://github.com/JavierRodriguez78/actividadesnodejs#readme"
 }

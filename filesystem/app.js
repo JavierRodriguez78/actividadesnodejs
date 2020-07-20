@@ -5,7 +5,7 @@ fs.writeFile('data.json','Hola mundo',(err)=>{
     console.log("Se ha creado el archivo");
 });
 
-fs.readFile('./dataclear.json',(err, data)=>{
+fs.readFile('./data.json',(err, data)=>{
     if(err) throw err;
     console.log("archivo ->"+data);
 })
