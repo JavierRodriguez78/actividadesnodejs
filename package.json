@@ -1,0 +1,19 @@
+{
+  "name": "actividades",
+  "version": "1.0.0",
+  "description": "Actividades bootcamp",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ejercicio1.js",
+    "xavi": "node ejercicio2.js",
+    "server": "live-server ."
+  },
+  "author": "xavi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "live-serve": "0.0.0"
+  },
+  "devDependencies": {}
+}
